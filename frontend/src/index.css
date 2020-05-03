@@ -1,0 +1,38 @@
+
+table th, table td {
+   white-space: nowrap;
+   color: azure;
+   
+}
+
+.table-round-corner {
+  
+  margin-top: 15px;
+  width: 100%;
+  text-align: center;
+  overflow:hidden;
+  border-collapse:separate;
+  border: solid #ccc 1px;
+  -webkit-border-radius: 25px;
+     -moz-border-radius: 25px;
+          border-radius: 25px;
+}
+
+.centerHead{
+  text-align: center;
+  margin: "20px 0";
+}
+
+.TableColor{
+  
+  background-color: #202020;
+  border-radius: 15px;
+  padding: 10px;
+  color: azure;
+}
+
+.background{
+  height: 100vh;
+  background-color:#333333;
+  padding: 10px;
+}
